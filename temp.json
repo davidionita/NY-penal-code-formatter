@@ -1,0 +1,19 @@
+[
+    {
+        "code": "(2)06", 
+        "type": "Felony", 
+        "title": "Armed Robbery", 
+        "bondType": "Federal Bail Bond", 
+        "jailTime": "5-10 Years", 
+        "bondAmount": 20000
+    }, 
+    
+    {
+        "code": "(2)07", 
+        "type": "Felony", 
+        "title": "Murder", 
+        "bondType": "Federal Bail Bond", 
+        "jailTime": "10-100 Years", 
+        "bondAmount": 100000 
+    }
+]

@@ -1,0 +1,2010 @@
+[
+    {
+        "code": "§ 207.5",
+        "type": "Traffic Infraction",
+        "title": "Misuse / unlawful disposal of uniform traffic summons",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 306.(b)",
+        "type": "Traffic Infraction",
+        "title": "Uninspected MV",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 306.(e)",
+        "type": "Traffic Infraction",
+        "title": "Issue or use fake or counterfeit inspection certificate",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 318.7 ",
+        "type": "Traffic Infraction",
+        "title": "Failure to surrender registration, plates, license after revocation for termination of financial security",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 319.1",
+        "type": "Traffic Infraction",
+        "title": "Operate / permit operation w/o financial security",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 319.2",
+        "type": "Traffic Infraction",
+        "title": "Improper insurance card",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 355",
+        "type": "Traffic Infraction",
+        "title": "Operate w/o proof of financial security after revocation",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 370.4",
+        "type": "Traffic Infraction",
+        "title": "Failure notify insurer-accident / hire vehicle",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.1",
+        "type": "Traffic Infraction",
+        "title": "MV with no/inadequate brakes; steering mechanism; horn; windshield wipers",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.1a",
+        "type": "Traffic Infraction",
+        "title": "Loud or unnecessary horn ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.1b ",
+        "type": "Traffic Infraction",
+        "title": "Unauthorized window stickers",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.1b",
+        "type": "Traffic Infraction",
+        "title": "Attached handbills to windshield",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.2(a)1",
+        "type": "Traffic Infraction",
+        "title": "No/inadequate headlights (MV) when dark or when windshield wipers are in use",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.2(a)3",
+        "type": "Traffic Infraction",
+        "title": "No / inadequate tail lights (2-lamp)",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.2(a)4",
+        "type": "Traffic Infraction",
+        "title": "No / inadequate plate light",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.2(b)",
+        "type": "Traffic Infraction",
+        "title": "Dazzling lights ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.2(c)",
+        "type": "Traffic Infraction",
+        "title": "Unauthorized light/s ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.3 ",
+        "type": "Traffic Infraction",
+        "title": "Failed to dim - meeting/overtaking ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.4 ",
+        "type": "Traffic Infraction",
+        "title": "Unapproved headlights ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.10a ",
+        "type": "Traffic Infraction",
+        "title": "No mirror on MV ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.10c r ",
+        "type": "Traffic Infraction",
+        "title": "No adjustable interior mirror",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.10-a",
+        "type": "Traffic Infraction",
+        "title": "No left side view mirror",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.12-a",
+        "type": "Traffic Infraction",
+        "title": "Nontransparent windshield",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.12-a(b)(1)",
+        "type": "Traffic Infraction",
+        "title": " Windshield less than 70% light transmittance",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.12-a(b)(1)",
+        "type": "Traffic Infraction",
+        "title": "Operator side windows less than 70% light transmittance ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.18",
+        "type": "Traffic Infraction",
+        "title": "No / inadequate directionals",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.20(a)",
+        "type": "Traffic Infraction",
+        "title": "No flashing light on front & rear of bus ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.20(c)",
+        "type": "Traffic Infraction",
+        "title": "School bus sign not lighted ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.22",
+        "type": "Traffic Infraction",
+        "title": "Glass broken/fractured/discolored so visibility is distorted",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.26",
+        "type": "Traffic Infraction",
+        "title": "Unauthorized gong/siren (not anti-theft device) ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.27",
+        "type": "Traffic Infraction",
+        "title": "No light / red flag on load ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.28",
+        "type": "Traffic Infraction",
+        "title": "Unnecessary smoke/offensive vapors",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.29",
+        "type": "Traffic Infraction",
+        "title": "Improper towing ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.30",
+        "type": "Traffic Infraction",
+        "title": "Front or rear view obstructed ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.31",
+        "type": "Traffic Infraction",
+        "title": "No / inadequate muffler MV ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.31-a",
+        "type": "Traffic Infraction",
+        "title": "Sell, install, use \"straight pipes\" MC muffler ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.34",
+        "type": "Traffic Infraction",
+        "title": "No/improper backup lights ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.40(b)",
+        "type": "Traffic Infraction",
+        "title": "No / inadequate brake lights",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.41-1",
+        "type": "Traffic Infraction",
+        "title": "Unauthorized light/revolving, flashing, etc. ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.41-2",
+        "type": "Traffic Infraction",
+        "title": "Unauthorized red and white light",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.41-3 ",
+        "type": "Traffic Infraction",
+        "title": "Unauthorized amber light",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.41-4 ",
+        "type": "Traffic Infraction",
+        "title": "Unauthorized blue light/improper use ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.41-5 ",
+        "type": "Traffic Infraction",
+        "title": "Unauthorized green light/improper use ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.47a",
+        "type": "Traffic Infraction",
+        "title": "Radio playing in excess of 70 decibels ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 375.48b",
+        "type": "Traffic Infraction",
+        "title": "No front or rear bumper ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 381.1(a)",
+        "type": "Traffic Infraction",
+        "title": "No/inadequate brakes/horn/lights/muffler",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 381.5",
+        "type": "Traffic Infraction",
+        "title": " Handlebars over operator's shoulders ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 381.6",
+        "type": "Traffic Infraction",
+        "title": "No / inadequate helmet",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 381.7",
+        "type": "Traffic Infraction",
+        "title": "No/inadequate goggles/face shield",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 381.11",
+        "type": "Traffic Infraction",
+        "title": "No/inadequate muffler or MC equipped w/straight pipes ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 396.1",
+        "type": "Traffic Infraction",
+        "title": "Unauthorized federal/state/muni. shield/lettering ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 396.2",
+        "type": "Traffic Infraction",
+        "title": " Unauthorized police dept. seal/shield/etc. ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 396.3",
+        "type": "Traffic Infraction",
+        "title": "Unauthorized fire dept. seal/shield/lettering ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 397",
+        "type": "Traffic Infraction",
+        "title": "Police radio receiver in private vehicle",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 401.1a ",
+        "type": "Traffic Infraction",
+        "title": "Unregistered motor vehicle ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 401.3a",
+        "type": "Traffic Infraction",
+        "title": "Fail to change address on registration",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 401.7F(b)",
+        "type": "Traffic Infraction",
+        "title": "Overweight on registration (single vehicle)",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 401.8c",
+        "type": "Traffic Infraction",
+        "title": "Overweight on registration (combos) ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 401.8d",
+        "type": "Traffic Infraction",
+        "title": "Overweight on registration (certain trailers) ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 402",
+        "type": "Traffic Infraction",
+        "title": "Plates / obstructed / dirty / insecure / none / one / no distinct number / covered by glass/plastic ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 402.2",
+        "type": "Traffic Infraction",
+        "title": "More than 1 State plate/no contrast of color ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 402.3",
+        "type": "Traffic Infraction",
+        "title": "Unregistered trailer ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 402.4",
+        "type": "Traffic Infraction",
+        "title": "Improper plates",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 402.5",
+        "type": "Traffic Infraction",
+        "title": "Permitted improper use of plates ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 402.6",
+        "type": "Traffic Infraction",
+        "title": "Owner of vehicle used wrong plate ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 402",
+        "type": "Traffic Infraction",
+        "title": "Registration tag not on windshield ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 403-a",
+        "type": "Traffic Infraction",
+        "title": "Falsifying temporary indicia of registration ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 410.1",
+        "type": "Traffic Infraction",
+        "title": "Unregistered Motorcycle ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 411.1",
+        "type": "Traffic Infraction",
+        "title": "No distinctive no plate-Motorcycle ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 411.2",
+        "type": "Traffic Infraction",
+        "title": "Plate not issued by commissioner-Motorcycle ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 411.3",
+        "type": "Traffic Infraction",
+        "title": "Improper plates-Motorcycle",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 411.4",
+        "type": "Traffic Infraction",
+        "title": "Permitted use of improper plates-Motorcycle",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 509.1",
+        "type": "Traffic Infraction",
+        "title": "Operating w/o license",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 509.2",
+        "type": "Traffic Infraction",
+        "title": "Operating out of appropriate class ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 509.3",
+        "type": "Traffic Infraction",
+        "title": "Operating out of restriction",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 509.4",
+        "type": "Traffic Infraction",
+        "title": "Permitting unlicensed operation ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 509.5",
+        "type": "Traffic Infraction",
+        "title": "Holding more than 1 NYS license ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 509.6",
+        "type": "Traffic Infraction",
+        "title": "Permit improper use of license/use or possess forged/fictitious license ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 509.7",
+        "type": "Traffic Infraction",
+        "title": "Fail to exhibit license to magistrate ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 509.8",
+        "type": "Traffic Infraction",
+        "title": "Fail to change address on license ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 509.9",
+        "type": "Traffic Infraction",
+        "title": "No notice of disability ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 511.1",
+        "type": "Unclassified Misdemeanor",
+        "title": "Aggravated unlicensed operation 3E ",
+        "bondType": "Citation Release",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 511.2",
+        "type": "Unclassified Misdemeanor",
+        "title": "Aggravated unlicensed operation 2E ",
+        "bondType": "Citation Release",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 511.3",
+        "type": "Unclassified Misdemeanor",
+        "title": "Aggravated unlicensed operation 1E ",
+        "bondType": "Citation Release",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 512",
+        "type": "Traffic Infraction",
+        "title": "Operation w/suspended registration",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 515",
+        "type": "Traffic Infraction",
+        "title": "Alteration of license conviction stub ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 530.(6)",
+        "type": "Traffic Infraction",
+        "title": " Improper use of restricted use license",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 530.(7)",
+        "type": "Traffic Infraction",
+        "title": "Expired restricted use license",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 600.1a",
+        "type": "Traffic Infraction",
+        "title": "Left scene accident with property damage ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 600.2a",
+        "type": "Traffic Infraction",
+        "title": "Left scene accident with physical injury ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 600.2a",
+        "type": "Traffic Infraction",
+        "title": "Left scene acc. w/serious phy. injury/death",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 601",
+        "type": "Traffic Infraction",
+        "title": "Left scene acc. w/injury to dog/horse/cattle ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 605.(a) ",
+        "type": "Traffic Infraction",
+        "title": "Fail to report acc. w/death, phys. inj., or prop. dam., in excess of\n$1000)",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1102",
+        "type": "Traffic Infraction",
+        "title": "Fail to obey order of police/flag person ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1110.(a) ",
+        "type": "Traffic Infraction",
+        "title": "Failed to obey traffic control device/police sign ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1111.(a)1",
+        "type": "Traffic Infraction",
+        "title": "Fail to yield with green light ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1111.(a)2 ",
+        "type": "Traffic Infraction",
+        "title": "Fail to yield with green arrow ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1111.(b)3 ",
+        "type": "Traffic Infraction",
+        "title": "Pedestrian crossed against yellow signal ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1111.(d)1",
+        "type": "Traffic Infraction",
+        "title": "Passed circular red signal ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1111.(d)2a",
+        "type": "Traffic Infraction",
+        "title": "Failed to stop at red signal before turning right/fail to yield to ped/traffic\n(2-way) ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1111.(d)2b",
+        "type": "Traffic Infraction",
+        "title": "Failed to stop at red signal before turning right/fail to yield to ped/traffic\n(1-way)",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1111.(d)3",
+        "type": "Traffic Infraction",
+        "title": "Passed red arrow",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1111.(d)4 ",
+        "type": "Traffic Infraction",
+        "title": "Pedestrian crossed against red signal ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1111.(d)5",
+        "type": "Traffic Infraction",
+        "title": "Right on red/school bus transporting pupils ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1113.(a) ",
+        "type": "Traffic Infraction",
+        "title": "Failure to stop at flashing red signal ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1120.(a)",
+        "type": "Traffic Infraction",
+        "title": "Failed to keep right ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1120.(b) ",
+        "type": "Traffic Infraction",
+        "title": "Failed to keep right (slow moving vehicle) ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1121",
+        "type": "Traffic Infraction",
+        "title": "Failed to yield one-half roadway ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1122.(a)",
+        "type": "Traffic Infraction",
+        "title": "Passed vehicle on right ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1122.(b)",
+        "type": "Traffic Infraction",
+        "title": "Failed to give way when being passed ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1123.(b)",
+        "type": "Traffic Infraction",
+        "title": "Left pavement to pass on right ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1124",
+        "type": "Traffic Infraction",
+        "title": "While passing on left, interfered with safe operation of oncoming vehicle ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1126.(a) ",
+        "type": "Traffic Infraction",
+        "title": "Drove left of pavement markings ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1127.(a)",
+        "type": "Traffic Infraction",
+        "title": "Wrong way on one-way street ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1128.(a)",
+        "type": "Traffic Infraction",
+        "title": "Moved from lane unsafely ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1128.(c)",
+        "type": "Traffic Infraction",
+        "title": "Failed to use designated lane ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1128.(d) ",
+        "type": "Traffic Infraction",
+        "title": "Drove across hazardous markings ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1129.(a)",
+        "type": "Traffic Infraction",
+        "title": "Following too closely ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1129.(b)",
+        "type": "Traffic Infraction",
+        "title": "Failed to leave sufficient space ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1129.(c)",
+        "type": "Traffic Infraction",
+        "title": "Failed to leave sufficient space (motorcade, except funerals) ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1130.1",
+        "type": "Traffic Infraction",
+        "title": "Drove across mall/median ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1130.2",
+        "type": "Traffic Infraction",
+        "title": "Unauthorized. entry/exit controlled access highway ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1131",
+        "type": "Traffic Infraction",
+        "title": "Drive on shoulder ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1140.(a)",
+        "type": "Traffic Infraction",
+        "title": "Fail to yield approaching intersection ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1140.(b) ",
+        "type": "Traffic Infraction",
+        "title": "Driver on left failed to yield in intersection ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1141",
+        "type": "Traffic Infraction",
+        "title": "Fail to yield - left turn",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1142.(a)",
+        "type": "Traffic Infraction",
+        "title": "Fail to stop - stop sign/failed to yield ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1142.(b) ",
+        "type": "Traffic Infraction",
+        "title": "Fail to yield - yield sign",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1143",
+        "type": "Traffic Infraction",
+        "title": "Fail to yield - entering roadway ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1144.(a) ",
+        "type": "Traffic Infraction",
+        "title": "Fail to yield to author. emergency vehicle ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1145",
+        "type": "Traffic Infraction",
+        "title": "Fail to yield at traffic circle ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1146",
+        "type": "Traffic Infraction",
+        "title": "Fail to exercise due care to avoid collision with bicyclist, pedestrian,\nor domestic animal ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1151.(a)",
+        "type": "Traffic Infraction",
+        "title": "Fail to yield to pedestrian in crosswalk",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1160.(a)",
+        "type": "Traffic Infraction",
+        "title": "Improper right turn",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1160.(b)",
+        "type": "Traffic Infraction",
+        "title": "Improper left turn (two-way)",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1160.(c)",
+        "type": "Traffic Infraction",
+        "title": "Improper left turn (one-way)",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1160.(d)",
+        "type": "Traffic Infraction",
+        "title": "Failed to turn as required",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1161",
+        "type": "Traffic Infraction",
+        "title": "U-turn at grade/curve ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1162",
+        "type": "Traffic Infraction",
+        "title": "Moved stopped vehicle unsafely ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1163.(a)",
+        "type": "Traffic Infraction",
+        "title": "Improper/unsafe turn",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1163.(b)",
+        "type": "Traffic Infraction",
+        "title": " Failed to signal for turn ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1163.(c)",
+        "type": "Traffic Infraction",
+        "title": "Failed to signal when stopping ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1163.(e)",
+        "type": "Traffic Infraction",
+        "title": "Failed to use emergency flashers ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1164.(b)",
+        "type": "Traffic Infraction",
+        "title": "No directionals - certain vehicles ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1166.(a)",
+        "type": "Traffic Infraction",
+        "title": "Improper right turn off roadway",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1166.(b)",
+        "type": "Traffic Infraction",
+        "title": "Improper left turn off roadway ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1166.(c)",
+        "type": "Traffic Infraction",
+        "title": "Improper left turn (one-way) off roadway",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1172.(a)",
+        "type": "Traffic Infraction",
+        "title": "Disobeyed stop sign",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1172.(b)",
+        "type": "Traffic Infraction",
+        "title": "Failed to stop for yield sign when required",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1173",
+        "type": "Traffic Infraction",
+        "title": "Failed to stop - emerging from alley, driveway, private road, or building",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1174.(a)",
+        "type": "Traffic Infraction",
+        "title": "Passed stopped school bus/lights flashing",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1174.(b)",
+        "type": "Traffic Infraction",
+        "title": "Failed to keep school bus halted/lighted",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1175",
+        "type": "Traffic Infraction",
+        "title": "Entered intersection when room unavailable (gridlock)",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1180.(a)",
+        "type": "Traffic Infraction",
+        "title": "Speed not reasonable/prudent",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1180.(d)",
+        "type": "Traffic Infraction",
+        "title": "Speeding in excess of posted limits",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1181.(a)",
+        "type": "Traffic Infraction",
+        "title": "Impeding traffic - driving too slowly",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1182.1",
+        "type": "Unclassified Misdemeanor",
+        "title": "Unauthorized speed contest (drag race) ",
+        "bondType": "Citation Release",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 1192.1",
+        "type": "Unclassified Misdemeanor",
+        "title": "D.W.A.I. (alcohol)",
+        "bondType": "Citation Release",
+        "jailTime": "0-15 Days",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 1192.2",
+        "type": "Unclassified Misdemeanor",
+        "title": "D.W.I. (.08% or more)/tested",
+        "bondType": "Citation Release",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 1192.2a",
+        "type": "E Felony",
+        "title": "Aggravated D.W.I. (.18% or more)/tested",
+        "bondType": "Citation Release",
+        "jailTime": "0-1 Years",
+        "bondAmount": 2500
+    },
+    {
+        "code": "§ 1192.2a(b)",
+        "type": "Unclassified Misdemeanor",
+        "title": "D.W.I. w/child 15 yrs or less is passenger",
+        "bondType": "Citation Release",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 1192.3",
+        "type": "Unclassified Misdemeanor",
+        "title": "D.W.I./observation",
+        "bondType": "Citation Release",
+        "jailTime": "0-1 Years",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 1192.4",
+        "type": "Unclassified Misdemeanor",
+        "title": "D.W.A.I. (drugs)",
+        "bondType": "Citation Release",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 1192.4a",
+        "type": "Unclassified Misdemeanor",
+        "title": "D.W.A.I. (combined drugs and or alcohol)",
+        "bondType": "Citation Release",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 1192.5",
+        "type": "Unclassified Misdemeanor",
+        "title": "D.W.I./commercial vehicle (.04% to .06%)",
+        "bondType": "Citation Release",
+        "jailTime": "0-15 Days",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 1192.6",
+        "type": "Unclassified Misdemeanor",
+        "title": "D.W.I./commercial vehicle (.06% to .08%)",
+        "bondType": "Citation Release",
+        "jailTime": "0-3 Months",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 1194.2(b)",
+        "type": "Violation",
+        "title": "Refusal of screening test",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 1200.(d)",
+        "type": "Traffic Infraction",
+        "title": " Fail to obey sign-stop/stand/parked",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1201.(a)",
+        "type": "Traffic Infraction",
+        "title": "Stop/stand/park veh. attended/unattended on roadway blocking traffic/obstruct.\nview opposite side unless vehicle is disabled ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1202.(a)1a",
+        "type": "Traffic Infraction",
+        "title": "Double parked/stopped/stand",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1202.(a)1b",
+        "type": "Traffic Infraction",
+        "title": "Stop/stand/parked on sidewalk",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1202.(d)1c",
+        "type": "Traffic Infraction",
+        "title": "Stop/stand/parked in intersection ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1202.(a)1d",
+        "type": "Traffic Infraction",
+        "title": "Stop/stand/parked on crosswalk",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1202.(a)2a",
+        "type": "Traffic Infraction",
+        "title": "Stand/parked blocking driveway ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1202.(a)2b",
+        "type": "Traffic Infraction",
+        "title": "Stand/parked within 20' of crosswalk",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1202.(a)2c",
+        "type": "Traffic Infraction",
+        "title": "Stand/parked within 30' of signal/stop sign",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1202.(a)2d",
+        "type": "Traffic Infraction",
+        "title": "Stand/parked proximity of fire station",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1202.(a)2e",
+        "type": "Traffic Infraction",
+        "title": "Stand/parked veh. blocking cut curb area",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1202.(a)3b",
+        "type": "Traffic Infraction",
+        "title": "Parked within 15' fire hydrant",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1203.(a)",
+        "type": "Traffic Infraction",
+        "title": "Parked wrong side/more than 12\" from curb (2-way road)",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1203.(b)",
+        "type": "Traffic Infraction",
+        "title": "Parked wrong side/more than 12\" from curb (1-way road)",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1203.(d)1",
+        "type": "Traffic Infraction",
+        "title": "Displayed parked vehicle for sale",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1203.(d)2",
+        "type": "Traffic Infraction",
+        "title": "Repaired vehicle on highway",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1203-b.2",
+        "type": "Traffic Infraction",
+        "title": "Stop/stand/parked in handicapped area (street)",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1203-c.1",
+        "type": "Traffic Infraction",
+        "title": "Failed to designate area for handicapped",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1203-c.2",
+        "type": "Traffic Infraction",
+        "title": "Failed to properly identify area for handicapped",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1203-c.4",
+        "type": "Traffic Infraction",
+        "title": "Parked in handicapped area (off street)",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1203-e",
+        "type": "Traffic Infraction",
+        "title": "Dumping snow in handicapped area ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1210.(a)",
+        "type": "Traffic Infraction",
+        "title": "Leaving engine on/key in unattended MV",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1211.(a)",
+        "type": "Traffic Infraction",
+        "title": "Unsafe backing",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1212",
+        "type": "Unclassified Misdemeanor",
+        "title": "Reckless driving",
+        "bondType": "Citation Release",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 1213.(a)",
+        "type": "Traffic Infraction",
+        "title": "Obstructed vision/4 persons in front seat",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1213.(b)",
+        "type": "Traffic Infraction",
+        "title": "Passenger obstructed view/interfered with driver",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1214",
+        "type": "Traffic Infraction",
+        "title": "Opened door unsafely ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1217",
+        "type": "Traffic Infraction",
+        "title": "Following fire apparatus too closely",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1217",
+        "type": "Traffic Infraction",
+        "title": "Parked within 1000' of fire scene",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1218",
+        "type": "Traffic Infraction",
+        "title": "Crossing fire hose",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1219.(a)",
+        "type": "Traffic Infraction",
+        "title": "Deposited injurious substance on highway ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1219.(c)",
+        "type": "Traffic Infraction",
+        "title": "Tow operator failed to remove debris",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1220.(a)",
+        "type": "Traffic Infraction",
+        "title": "Deposited refuse on/near highway ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1221",
+        "type": "Traffic Infraction",
+        "title": "Drove through safety zone",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1222.1a",
+        "type": "Traffic Infraction",
+        "title": "No seats - truck carrying people",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1222.1b",
+        "type": "Traffic Infraction",
+        "title": "3' side racks - truck carrying people",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1222.1c",
+        "type": "Traffic Infraction",
+        "title": "No tailgate - truck carrying people",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1222.2",
+        "type": "Traffic Infraction",
+        "title": "Truck carrying 6 people w/o person 18 yrs",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1224.7(a)",
+        "type": "Traffic Infraction",
+        "title": "Abandoned vehicle ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1225",
+        "type": "Traffic Infraction",
+        "title": "Avoided intersection/traffic control device ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1225-c.2a",
+        "type": "Traffic Infraction",
+        "title": "Use mobile telephone while driving",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1225-d.1",
+        "type": "Traffic Infraction",
+        "title": "Use portable electronic device while driving",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1225-a",
+        "type": "Traffic Infraction",
+        "title": "Driving on sidewalk ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1226",
+        "type": "Traffic Infraction",
+        "title": "Removed both hands from wheel",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1227.1",
+        "type": "Traffic Infraction",
+        "title": "Driver/ passenger used alcholic beverage in MV",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1229-c.1",
+        "type": "Traffic Infraction",
+        "title": "Rear seat under 7 not in child restraint seat",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1229-c.1",
+        "type": "Traffic Infraction",
+        "title": "Rear seat under 16 no seat belt",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1229-c.2",
+        "type": "Traffic Infraction",
+        "title": "Front seat under 7 not in child restraint seat",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1229-c.2",
+        "type": "Traffic Infraction",
+        "title": "Front seat under 16 no seat belt",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1229-c.3",
+        "type": "Traffic Infraction",
+        "title": "No seat belt - driver/front seat pass. over 16",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1233.2",
+        "type": "Traffic Infraction",
+        "title": "Ride/attach oneself to vehicle",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1233.3",
+        "type": "Traffic Infraction",
+        "title": "Permitting person to ride/attach device-MV ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1236.(e)",
+        "type": "Traffic Infraction",
+        "title": "No reflectors on bicycle",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1238.5(b)",
+        "type": "Traffic Infraction",
+        "title": "No helmet on bicycle operator under 14 (issued only to guardian only\nif present)",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1251.(a)",
+        "type": "Traffic Infraction",
+        "title": "2 persons on seat for 1",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1251.(b)",
+        "type": "Traffic Infraction",
+        "title": "Sitting improperly/astride seat ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1251.(c)",
+        "type": "Traffic Infraction",
+        "title": "Carrying object/2 hands not on handlebars",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1251.(d)",
+        "type": "Traffic Infraction",
+        "title": "Passenger interfered with driver",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1252.(a)",
+        "type": "Traffic Infraction",
+        "title": "MC/MV deprives MC use of full lane ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1252.(b)",
+        "type": "Traffic Infraction",
+        "title": "MC passing in same lane",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1252.(c)",
+        "type": "Traffic Infraction",
+        "title": " MC operating between autos",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1252.(d)",
+        "type": "Traffic Infraction",
+        "title": "More than 2 abreast in same lane",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 1253",
+        "type": "Traffic Infraction",
+        "title": "Clinging to other vehicles",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 2130.(a)1",
+        "type": "Traffic Infraction",
+        "title": "Alters/forge certificate of title ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 2130.(a)2",
+        "type": "Traffic Infraction",
+        "title": "Alters/forges assignment of cert. of title ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 2130.(a)3 ",
+        "type": "Traffic Infraction",
+        "title": "Possesses altered/forged certificate of title ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 2130.(a)4",
+        "type": "Traffic Infraction",
+        "title": "Uses false name/makes false statement to secure certificate of title or copy",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 2261.1",
+        "type": "Traffic Infraction",
+        "title": "Unregistered limited use vehicle ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 2264.1",
+        "type": "Traffic Infraction",
+        "title": "Number plates not displayed ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 2264.4",
+        "type": "Traffic Infraction",
+        "title": "Misuse dealer plates ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 2282.1",
+        "type": "Traffic Infraction",
+        "title": " Unregistered ATV ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 2403.1",
+        "type": "Traffic Infraction",
+        "title": "Operating ATV on highway ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 2403.2",
+        "type": "Traffic Infraction",
+        "title": "Operating ATV on public land not designated for ATVs ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 2403.3",
+        "type": "Traffic Infraction",
+        "title": "Operating ATV on private land w/o ownerâ€™s consent ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 2404.1(a)",
+        "type": "Traffic Infraction",
+        "title": "Unreasonable speed ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 2404.1(b)",
+        "type": "Unclassified Misdemeanor",
+        "title": "Reckless or negligent operation ",
+        "bondType": "Citation Release",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 2404.1(g)",
+        "type": "Traffic Infraction",
+        "title": "Within 100' of dwelling between midnight & 6:00 a.m. ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 2404.1(h)",
+        "type": "Traffic Infraction",
+        "title": "Operating on public lands/private property while intoxicated with alcohol or drugs",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 2404.2(b)",
+        "type": "Traffic Infraction",
+        "title": "Failure to obey lawful order ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 2406.1(b)",
+        "type": "Traffic Infraction",
+        "title": "No / improper muffler ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 2406.1(e)",
+        "type": "Traffic Infraction",
+        "title": "No / improper front and rear lights ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 2406.2",
+        "type": "Traffic Infraction",
+        "title": "No / improper helmet ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 2407.4",
+        "type": "Traffic Infraction",
+        "title": "No insurance ",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    },
+    {
+        "code": "§ 2410.1",
+        "type": "Traffic Infraction",
+        "title": "Operator under 16 w/o supervision of person 18 or over (unless 10 or over & a holder of ATV safety certificate)",
+        "bondType": "Citation Release",
+        "jailTime": "0 Years",
+        "bondAmount": 100
+    }
+]

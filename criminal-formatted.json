@@ -1,0 +1,4610 @@
+[
+    {
+        "code": "§ 100.00",
+        "type": "Violation",
+        "title": "Criminal solicitation in the fifth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-15 Days",
+        "bondAmount": 250
+    },
+    {
+        "code": "§ 100.05",
+        "type": "A Misdemeanor",
+        "title": "Criminal solicitation in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 100.08",
+        "type": "E Felony",
+        "title": "Criminal solicitation in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 100.10",
+        "type": "D Felony",
+        "title": "Criminal solicitation in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 100.13",
+        "type": "C Felony",
+        "title": "Criminal solicitation in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 105.00",
+        "type": "B Misdemeanor",
+        "title": "Conspiracy in the sixth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 105.05",
+        "type": "A Misdemeanor",
+        "title": "Conspiracy in the fifth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 105.10",
+        "type": "E Felony",
+        "title": "Conspiracy in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 105.13",
+        "type": "D Felony",
+        "title": "Conspiracy in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 105.15",
+        "type": "B Felony",
+        "title": "Conspiracy in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 105.17",
+        "type": "A-I Felony",
+        "title": "Conspiracy in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "15 Years-Life",
+        "bondAmount": 100000
+    },
+    {
+        "code": "§ 115.00",
+        "type": "A Misdemeanor",
+        "title": "Criminal facilitation in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 115.01",
+        "type": "E Felony",
+        "title": "Criminal facilitation in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 115.05",
+        "type": "C Felony",
+        "title": "Criminal facilitation in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 115.08",
+        "type": "B Felony",
+        "title": "Criminal facilitation in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 120.00",
+        "type": "A Misdemeanor",
+        "title": "Assault in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 120.01",
+        "type": "E Felony",
+        "title": "Reckless assault of a child by a child day care provider",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 120.02",
+        "type": "D Violent Felony",
+        "title": "Reckless assault of a child",
+        "bondType": "Surety Bail",
+        "jailTime": "2-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 120.03",
+        "type": "E Felony",
+        "title": "Vehicular assault in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 120.04",
+        "type": "D Felony",
+        "title": "Vehicular assault in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 120.04-a",
+        "type": "C Felony",
+        "title": "Aggravated vehicular assault",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 120.05",
+        "type": "D Violent Felony",
+        "title": "Assault in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "2-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 120.06",
+        "type": "C Violent Felony",
+        "title": "Gang assault in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "3.5-15 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 120.07",
+        "type": "B Violent Felony",
+        "title": "Gang assault in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "5-25 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 120.08",
+        "type": "C Violent Felony",
+        "title": "Assault on a peace officer police officer fireman or emergency medical services professional",
+        "bondType": "Surety Bail",
+        "jailTime": "3.5-15 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 120.09",
+        "type": "C Violent Felony",
+        "title": "Assault on a judge",
+        "bondType": "Surety Bail",
+        "jailTime": "3.5-15 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 120.10",
+        "type": "B Violent Felony",
+        "title": "Assault in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "5-25 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 120.11",
+        "type": "B Violent Felony",
+        "title": "Aggravated assault upon a police officer or a peace officer",
+        "bondType": "Surety Bail",
+        "jailTime": "5-25 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 120.12",
+        "type": "E Felony",
+        "title": "Aggravated assault upon a person less than eleven years old",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 120.13",
+        "type": "C Violent Felony",
+        "title": "Strangulation in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "3.5-15 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 120.13",
+        "type": "E Felony",
+        "title": "Menacing in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 120.14",
+        "type": "A Misdemeanor",
+        "title": "Menacing in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 120.15",
+        "type": "B Misdemeanor",
+        "title": "Menacing in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 120.16",
+        "type": "A Misdemeanor",
+        "title": "Hazing in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 120.17",
+        "type": "Violation",
+        "title": "Hazing in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-15 Days",
+        "bondAmount": 250
+    },
+    {
+        "code": "§ 120.18",
+        "type": "D Violent Felony",
+        "title": "Menacing a police officer or peace officer",
+        "bondType": "Surety Bail",
+        "jailTime": "2-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 120.20",
+        "type": "A Misdemeanor",
+        "title": "Reckless endangerment in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 120.25",
+        "type": "D Felony",
+        "title": "Reckless endangerment in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 120.30",
+        "type": "E Felony",
+        "title": "Promoting a suicide attempt",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 120.45",
+        "type": "B Misdemeanor",
+        "title": "Stalking in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 120.50",
+        "type": "A Misdemeanor",
+        "title": "Stalking in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 120.55",
+        "type": "E Felony",
+        "title": "Stalking in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 120.60",
+        "type": "D Violent Felony",
+        "title": "Stalking in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "2-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 120.70",
+        "type": "E Felony",
+        "title": "Luring a child",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 121.11",
+        "type": "A Misdemeanor",
+        "title": "Criminal obstruction of breathing or blood circulation",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 121.12",
+        "type": "D Violent Felony",
+        "title": "Strangulation in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "2-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 125.10",
+        "type": "E Felony",
+        "title": "Criminally negligent homicide",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 125.11",
+        "type": "C Violent Felony",
+        "title": "Aggravated criminally negligent homicide",
+        "bondType": "Surety Bail",
+        "jailTime": "3.5-15 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 125.12",
+        "type": "D Felony",
+        "title": "Vehicular manslaughter in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 125.13",
+        "type": "C Felony",
+        "title": "Vehicular manslaughter in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 125.14",
+        "type": "B Felony",
+        "title": "Aggravated vehicular homicide",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 125.15",
+        "type": "C Felony",
+        "title": "Manslaughter in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 125.20",
+        "type": "B Violent Felony",
+        "title": "Manslaughter in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "5-25 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 125.21",
+        "type": "C Violent Felony",
+        "title": "Aggravated manslaughter in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "3.5-15 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 125.22",
+        "type": "B Violent Felony",
+        "title": "Aggravated manslaughter in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "5-25 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 125.25",
+        "type": "A-I Felony",
+        "title": "Murder in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "15 Years-Life",
+        "bondAmount": 100000
+    },
+    {
+        "code": "§ 125.27",
+        "type": "A-I Felony",
+        "title": "Murder in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "15 Years-Life",
+        "bondAmount": 100000
+    },
+    {
+        "code": "§ 125.50",
+        "type": "B Misdemeanor",
+        "title": "Self-abortion in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 125.55",
+        "type": "A Misdemeanor",
+        "title": "Self-abortion in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 125.60",
+        "type": "B Misdemeanor",
+        "title": "Issuing abortional articles",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 125.26",
+        "type": "A-I Felony",
+        "title": "Aggravated murder",
+        "bondType": "Surety Bail",
+        "jailTime": "15 Years-Life",
+        "bondAmount": 100000
+    },
+    {
+        "code": "§ 125.40",
+        "type": "E Felony",
+        "title": "Abortion in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 125.45",
+        "type": "D Felony",
+        "title": "Abortion in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 130.20",
+        "type": "A Misdemeanor",
+        "title": "Sexual misconduct",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 130.25",
+        "type": "E Felony",
+        "title": "Rape in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 130.30",
+        "type": "D Violent Felony",
+        "title": "Rape in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "2-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 130.35",
+        "type": "B Violent Felony",
+        "title": "Rape in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "5-25 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 130.40",
+        "type": "E Felony",
+        "title": "Criminal sexual act in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 130.45",
+        "type": "D Violent Felony",
+        "title": "Criminal sexual act in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "2-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 130.50",
+        "type": "B Violent Felony",
+        "title": "Criminal sexual act in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "5-25 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 130.52",
+        "type": "A Misdemeanor",
+        "title": "Forcible touching",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 130.53",
+        "type": "E Violent Felony",
+        "title": "Persistent sexual abuse",
+        "bondType": "Surety Bail",
+        "jailTime": "1.5-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 130.55",
+        "type": "B Misdemeanor",
+        "title": "Sexual abuse in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 130.60",
+        "type": "A Misdemeanor",
+        "title": "Sexual abuse in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 130.65",
+        "type": "D Violent Felony",
+        "title": "Sexual abuse in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "2-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 130.65-a",
+        "type": "E Violent Felony",
+        "title": "Aggravated sexual abuse in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "1.5-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 130.66",
+        "type": "D Violent Felony",
+        "title": "Aggravated sexual abuse in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "2-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 130.67",
+        "type": "C Violent Felony",
+        "title": "Aggravated sexual abuse in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "3.5-15 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 130.70",
+        "type": "B Violent Felony",
+        "title": "Aggravated sexual abuse in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "5-25 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 130.75",
+        "type": "B Violent Felony",
+        "title": "Course of sexual conduct against a child in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "5-25 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 130.80",
+        "type": "D Violent Felony",
+        "title": "Course of sexual conduct against a child in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "2-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 130.85",
+        "type": "E Felony",
+        "title": "Female genital mutilation",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 130.90",
+        "type": "D Violent Felony",
+        "title": "Facilitating a sex offense with a controlled substance",
+        "bondType": "Surety Bail",
+        "jailTime": "2-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 130.95",
+        "type": "A-II Felony",
+        "title": "Predatory sexual assault",
+        "bondType": "Surety Bail",
+        "jailTime": "3 Years-Life",
+        "bondAmount": 50000
+    },
+    {
+        "code": "§ 130.96",
+        "type": "A-II Felony",
+        "title": "Predatory sexual assault against a child.",
+        "bondType": "Surety Bail",
+        "jailTime": "3 Years-Life",
+        "bondAmount": 50000
+    },
+    {
+        "code": "§ 135.05",
+        "type": "A Misdemeanor",
+        "title": "Unlawful imprisonment in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 135.10",
+        "type": "E Felony",
+        "title": "Unlawful imprisonment in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 135.20",
+        "type": "B Violent Felony",
+        "title": "Kidnapping in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "5-25 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 135.25",
+        "type": "A-I Felony",
+        "title": "Kidnapping in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "15 Years-Life",
+        "bondAmount": 100000
+    },
+    {
+        "code": "§ 135.35",
+        "type": "D Felony",
+        "title": "Labor trafficking",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 135.45",
+        "type": "A Misdemeanor",
+        "title": "Custodial interference in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 135.50",
+        "type": "E Felony",
+        "title": "Custodial interference in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 135.55",
+        "type": "E Felony",
+        "title": "Substitution of children",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 135.60",
+        "type": "A Misdemeanor",
+        "title": "Coercion in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 135.61",
+        "type": "E Felony",
+        "title": "Coercion in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 135.65",
+        "type": "D Felony",
+        "title": "Coercion in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 140.05",
+        "type": "Violation",
+        "title": "Trespass",
+        "bondType": "Surety Bail",
+        "jailTime": "0-15 Days",
+        "bondAmount": 250
+    },
+    {
+        "code": "§ 140.10",
+        "type": "B Misdemeanor",
+        "title": "Criminal trespass in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 140.15",
+        "type": "A Misdemeanor",
+        "title": "Criminal trespass in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 140.17",
+        "type": "D Felony",
+        "title": "Criminal trespass in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 140.20",
+        "type": "D Felony",
+        "title": "Burglary in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 140.25",
+        "type": "C Violent Felony",
+        "title": "Burglary in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "3.5-15 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 140.30",
+        "type": "B Violent Felony",
+        "title": "Burglary in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "5-25 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 140.35",
+        "type": "A Misdemeanor",
+        "title": "Possession of burglar`s tools",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 140.40",
+        "type": "B Misdemeanor",
+        "title": "Unlawful possession of radio devices",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 145.00",
+        "type": "A Misdemeanor",
+        "title": "Criminal mischief in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 145.05",
+        "type": "E Felony",
+        "title": "Criminal mischief in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 145.10",
+        "type": "D Felony",
+        "title": "Criminal mischief in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 145.12",
+        "type": "B Felony",
+        "title": "Criminal mischief in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 145.14",
+        "type": "B Misdemeanor",
+        "title": "Criminal tampering in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 145.15",
+        "type": "A Misdemeanor",
+        "title": "Criminal tampering in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 145.20",
+        "type": "D Felony",
+        "title": "Criminal tampering in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 145.22",
+        "type": "A Misdemeanor",
+        "title": "Cemetery desecration in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 145.23",
+        "type": "E Felony",
+        "title": "Cemetery desecration in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 145.25",
+        "type": "B Misdemeanor",
+        "title": "Reckless endangerment of property",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 145.26",
+        "type": "E Felony",
+        "title": "Aggravated cemetery desecration in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 145.27",
+        "type": "D Felony",
+        "title": "Aggravated cemetery desecration in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 145.30",
+        "type": "Violation",
+        "title": "Unlawfully posting advertisements",
+        "bondType": "Surety Bail",
+        "jailTime": "0-15 Days",
+        "bondAmount": 250
+    },
+    {
+        "code": "§ 145.40",
+        "type": "A Misdemeanor",
+        "title": "Tampering with a consumer product in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 145.45",
+        "type": "E Felony",
+        "title": "Tampering with a consumer product in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 145.60",
+        "type": "A Misdemeanor",
+        "title": "Making graffiti",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 145.65",
+        "type": "B Misdemeanor",
+        "title": "Possession of graffiti instruments",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 145.70",
+        "type": "A Misdemeanor",
+        "title": "Criminal possession of a taximeter accelerating device",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 150.01",
+        "type": "A Misdemeanor",
+        "title": "Arson in the fifth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 150.05",
+        "type": "E Felony",
+        "title": "Arson in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 150.10",
+        "type": "C Felony",
+        "title": "Arson in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 150.15",
+        "type": "B Violent Felony",
+        "title": "Arson in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "5-25 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 150.20",
+        "type": "A-I Felony",
+        "title": "Arson in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "15 Years-Life",
+        "bondAmount": 100000
+    },
+    {
+        "code": "§ 155.25",
+        "type": "A Misdemeanor",
+        "title": "Petit larceny",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 155.30",
+        "type": "E Felony",
+        "title": "Grand larceny in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 155.35",
+        "type": "D Felony",
+        "title": "Grand larceny in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 155.40",
+        "type": "C Felony",
+        "title": "Grand larceny in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 155.42",
+        "type": "B Felony",
+        "title": "Grand larceny in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 155.43",
+        "type": "C Felony",
+        "title": "Aggravated grand larceny of an automated teller machine",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 156.05",
+        "type": "A Misdemeanor",
+        "title": "Unauthorized use of a computer",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 156.10",
+        "type": "E Felony",
+        "title": "Computer trespass",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 156.20",
+        "type": "A Misdemeanor",
+        "title": "Computer tampering in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 156.25",
+        "type": "E Felony",
+        "title": "Computer tampering in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 156.26",
+        "type": "D Felony",
+        "title": "Computer tampering in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 156.27",
+        "type": "C Felony",
+        "title": "Computer tampering in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 156.29",
+        "type": "B Misdemeanor",
+        "title": "Unlawful duplication of computer related material in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 156.30",
+        "type": "E Felony",
+        "title": "Unlawful duplication of computer related material in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 156.35",
+        "type": "E Felony",
+        "title": "Criminal possession of computer related material",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 156.40",
+        "type": "E Felony",
+        "title": "Operating an unlawful electronic sweepstakes",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 158.05",
+        "type": "A Misdemeanor",
+        "title": "Welfare fraud in the fifth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 158.10",
+        "type": "E Felony",
+        "title": "Welfare fraud in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 158.15",
+        "type": "D Felony",
+        "title": "Welfare fraud in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 158.20",
+        "type": "C Felony",
+        "title": "Welfare fraud in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 158.25",
+        "type": "B Felony",
+        "title": "Welfare fraud in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 158.30",
+        "type": "A Misdemeanor",
+        "title": "Criminal use of a public benefit card in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 158.35",
+        "type": "E Felony",
+        "title": "Criminal use of a public benefit card in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 158.40",
+        "type": "E Felony",
+        "title": "Criminal possession of public benefit cards in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 158.45",
+        "type": "D Felony",
+        "title": "Criminal possession of public benefit cards in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 158.50",
+        "type": "C Felony",
+        "title": "Criminal possession of public benefit cards in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 160.05",
+        "type": "D Felony",
+        "title": "Robbery in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 160.10",
+        "type": "C Violent Felony",
+        "title": "Robbery in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "3.5-15 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 160.15",
+        "type": "B Violent Felony",
+        "title": "Robbery in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "5-25 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 165.00",
+        "type": "A Misdemeanor",
+        "title": "Misapplication of property",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 165.05",
+        "type": "A Misdemeanor",
+        "title": "Unauthorized use of a vehicle in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 165.06",
+        "type": "E Felony",
+        "title": "Unauthorized use of a vehicle in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 165.07",
+        "type": "E Felony",
+        "title": "Unlawful use of secret scientific material",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 165.08",
+        "type": "D Felony",
+        "title": "Unauthorized use of a vehicle in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 165.09",
+        "type": "A Misdemeanor",
+        "title": "Auto stripping in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 165.10",
+        "type": "E Felony",
+        "title": "Auto stripping in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 165.11",
+        "type": "D Felony",
+        "title": "Auto stripping in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 165.15",
+        "type": "A Misdemeanor",
+        "title": "Theft of services",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 165.16",
+        "type": "B Misdemeanor",
+        "title": "Unauthorized sale of certain transportation services",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 165.17",
+        "type": "A Misdemeanor",
+        "title": "Unlawful use of credit card debit card or public benefit card",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 165.71",
+        "type": "A Misdemeanor",
+        "title": "Trademark counterfeiting in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 165.20",
+        "type": "A Misdemeanor",
+        "title": "Fraudulently obtaining a signature",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 165.25",
+        "type": "A Misdemeanor",
+        "title": "Jostling",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 165.30",
+        "type": "A Misdemeanor",
+        "title": "Fraudulent accosting",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 165.35",
+        "type": "B Misdemeanor",
+        "title": "Fortune telling",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 165.40",
+        "type": "A Misdemeanor",
+        "title": "Criminal possession of stolen property in the fifth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 165.45",
+        "type": "E Felony",
+        "title": "Criminal possession of stolen property in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 165.50",
+        "type": "D Felony",
+        "title": "Criminal possession of stolen property in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 165.52",
+        "type": "C Felony",
+        "title": "Criminal possession of stolen property in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 165.54",
+        "type": "B Felony",
+        "title": "Criminal possession of stolen property in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 165.72",
+        "type": "E Felony",
+        "title": "Trademark counterfeiting in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 170.05",
+        "type": "A Misdemeanor",
+        "title": "Forgery in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 170.10",
+        "type": "D Felony",
+        "title": "Forgery in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 170.15",
+        "type": "C Felony",
+        "title": "Forgery in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 170.20",
+        "type": "A Misdemeanor",
+        "title": "Criminal possession of a forged instrument in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 170.25",
+        "type": "D Felony",
+        "title": "Criminal possession of a forged instrument in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 170.25",
+        "type": "D Felony",
+        "title": "Fraudulent making of an electronic access device in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 170.30",
+        "type": "C Felony",
+        "title": "Criminal possession of a forged instrument in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 170.40",
+        "type": "D Felony",
+        "title": "Criminal possession of forgery devices",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 170.45",
+        "type": "A Misdemeanor",
+        "title": "Criminal simulation",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 170.47",
+        "type": "B Misdemeanor",
+        "title": "Criminal possession of an anti-security item",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 170.55",
+        "type": "B Misdemeanor",
+        "title": "Unlawfully using slugs in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 170.60",
+        "type": "E Felony",
+        "title": "Unlawfully using slugs in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 170.65",
+        "type": "E Felony",
+        "title": "Forgery of a vehicle identification number",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 170.70",
+        "type": "E Felony",
+        "title": "Illegal possession of a vehicle identification number",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 175.05",
+        "type": "A Misdemeanor",
+        "title": "Falsifying business records in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 175.10",
+        "type": "E Felony",
+        "title": "Falsifying business records in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 175.20",
+        "type": "A Misdemeanor",
+        "title": "Tampering with public records in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 175.25",
+        "type": "D Felony",
+        "title": "Tampering with public records in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 175.30",
+        "type": "A Misdemeanor",
+        "title": "Offering a false instrument for filing in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 175.35",
+        "type": "E Felony",
+        "title": "Offering a false instrument for filing in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 175.40",
+        "type": "E Felony",
+        "title": "Issuing a false certificate",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 175.45",
+        "type": "A Misdemeanor",
+        "title": "Issuing a false financial statement",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 176.10",
+        "type": "A Misdemeanor",
+        "title": "Insurance fraud in the fifth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 176.15",
+        "type": "E Felony",
+        "title": "Insurance fraud in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 176.20",
+        "type": "D Felony",
+        "title": "Insurance fraud in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 176.25",
+        "type": "C Felony",
+        "title": "Insurance fraud in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 176.30",
+        "type": "B Felony",
+        "title": "Insurance fraud in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 176.35",
+        "type": "D Felony",
+        "title": "Aggravated insurance fraud",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 176.45",
+        "type": "A Misdemeanor",
+        "title": "Life settlement fraud in the fifth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 176.50",
+        "type": "E Felony",
+        "title": "Life settlement fraud in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 176.60",
+        "type": "C Felony",
+        "title": "Life settlement fraud in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 176.65",
+        "type": "B Felony",
+        "title": "Life settlement fraud in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 177.05",
+        "type": "A Misdemeanor",
+        "title": "Health care fraud in the fifth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 177.10",
+        "type": "E Felony",
+        "title": "Health care fraud in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 177.15",
+        "type": "D Felony",
+        "title": "Health care fraud in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 177.20",
+        "type": "C Felony",
+        "title": "Health care fraud in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 177.25",
+        "type": "B Felony",
+        "title": "Health care fraud in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 178.10",
+        "type": "A Misdemeanor",
+        "title": "Criminal diversion of prescription medications and prescriptions in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 178.15",
+        "type": "E Felony",
+        "title": "Criminal diversion of prescription medications and prescriptions in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 178.25",
+        "type": "C Felony",
+        "title": "Criminal diversion of prescription medications and prescriptions in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 178.26",
+        "type": "A Misdemeanor",
+        "title": "Fraud and deceit related to controlled substances",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 179.10",
+        "type": "E Felony",
+        "title": "Criminal diversion of medical marihuana in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 179.11",
+        "type": "B Misdemeanor",
+        "title": "Criminal diversion of medical marihuana in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 179.15",
+        "type": "A Misdemeanor",
+        "title": "Criminal retention of medical marihuana",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 180.00",
+        "type": "A Misdemeanor",
+        "title": "Commercial bribing in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 180.03",
+        "type": "E Felony",
+        "title": "Commercial bribing in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 180.05",
+        "type": "A Misdemeanor",
+        "title": "Commercial bribe receiving in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 180.08",
+        "type": "E Felony",
+        "title": "Commercial bribe receiving in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 180.15",
+        "type": "D Felony",
+        "title": "Bribing a labor official",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 180.25",
+        "type": "D Felony",
+        "title": "Bribe receiving by a labor official",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 180.45",
+        "type": "E Felony",
+        "title": "Sports bribe receiving",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 180.50",
+        "type": "A Misdemeanor",
+        "title": "Tampering with a sports contest in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 180.51",
+        "type": "E Felony",
+        "title": "Tampering with a sports contest in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 180.52",
+        "type": "E Felony",
+        "title": "Impairing the integrity of a pari-mutuel betting system in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 180.55",
+        "type": "B Misdemeanor",
+        "title": "Rent gouging in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 180.56",
+        "type": "A Misdemeanor",
+        "title": "Rent gouging in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 180.57",
+        "type": "E Felony",
+        "title": "Rent gouging in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 185.00",
+        "type": "A Misdemeanor",
+        "title": "Fraud in insolvency",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 185.05",
+        "type": "A Misdemeanor",
+        "title": "Fraud involving a security interest",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 185.10",
+        "type": "A Misdemeanor",
+        "title": "Fraudulent disposition of mortgaged property",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 185.15",
+        "type": "A Misdemeanor",
+        "title": "Fraudulent disposition of property subject to a conditional sale contract",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 187.05",
+        "type": "A Misdemeanor",
+        "title": "Residential mortgage fraud in the fifth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 187.10",
+        "type": "E Felony",
+        "title": "Residential mortgage fraud in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 187.15",
+        "type": "D Felony",
+        "title": "Residential mortgage fraud in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 187.20",
+        "type": "C Felony",
+        "title": "Residential mortgage fraud in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 187.25",
+        "type": "B Felony",
+        "title": "Residential mortgage fraud in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 190.05",
+        "type": "B Misdemeanor",
+        "title": "Issuing a bad check",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 190.20",
+        "type": "A Misdemeanor",
+        "title": "False advertising",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 190.23",
+        "type": "B Misdemeanor",
+        "title": "False personation",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 190.25",
+        "type": "A Misdemeanor",
+        "title": "Criminal impersonation in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 190.26",
+        "type": "E Felony",
+        "title": "Criminal impersonation in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 190.27",
+        "type": "A Misdemeanor",
+        "title": "Criminal sale of a police uniform",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 190.30",
+        "type": "E Felony",
+        "title": "Unlawfully concealing a will",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 190.35",
+        "type": "B Misdemeanor",
+        "title": "Misconduct by corporate official",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 190.42",
+        "type": "C Felony",
+        "title": "Criminal usury in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 190.45",
+        "type": "A Misdemeanor",
+        "title": "Possession of usurious loan records",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 190.50",
+        "type": "B Misdemeanor",
+        "title": "Unlawful collection practices",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 190.55",
+        "type": "A Misdemeanor",
+        "title": "Making a false statement of credit terms",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 190.60",
+        "type": "A Misdemeanor",
+        "title": "Scheme to defraud in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 190.65",
+        "type": "E Felony",
+        "title": "Scheme to defraud in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 190.70",
+        "type": "A Misdemeanor",
+        "title": "Scheme to defraud the state by unlawfully selling prescriptions",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 190.72",
+        "type": "A Misdemeanor",
+        "title": "Unauthorized radio transmission",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 190.75",
+        "type": "A Misdemeanor",
+        "title": "Criminal use of an access device in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 190.76",
+        "type": "E Felony",
+        "title": "Criminal use of an access device in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 190.78",
+        "type": "A Misdemeanor",
+        "title": "Identity theft in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 190.79",
+        "type": "E Felony",
+        "title": "Identity theft in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 190.80",
+        "type": "D Felony",
+        "title": "Identity theft in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 190.80-a",
+        "type": "D Felony",
+        "title": "Aggravated identity theft",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 190.81",
+        "type": "A Misdemeanor",
+        "title": "Unlawful possession of personal identification information in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 190.82",
+        "type": "E Felony",
+        "title": "Unlawful possession of personal identification information in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 190.83",
+        "type": "D Felony",
+        "title": "Unlawful possession of personal identification information in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 190.85",
+        "type": "A Misdemeanor",
+        "title": "Unlawful possession of a skimmer device in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 190.86",
+        "type": "E Felony",
+        "title": "Unlawful possession of a skimmer device in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 190.87",
+        "type": "A Misdemeanor",
+        "title": "Immigrant assistance services fraud in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 190.89",
+        "type": "E Felony",
+        "title": "Immigrant assistance services fraud in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 195.00",
+        "type": "A Misdemeanor",
+        "title": "Official misconduct",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 195.05",
+        "type": "A Misdemeanor",
+        "title": "Obstructing governmental administration in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 195.06",
+        "type": "A Misdemeanor",
+        "title": "Killing or injuring a police animal",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 195.08",
+        "type": "D Felony",
+        "title": "Obstructing governmental administration by means of a self-defense spray device",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 195.10",
+        "type": "B Misdemeanor",
+        "title": "Refusing to aid a peace or a police officer",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 195.11",
+        "type": "B Misdemeanor",
+        "title": "Harming an animal trained to aid a person with a disability in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 195.12",
+        "type": "A Misdemeanor",
+        "title": "Harming an animal trained to aid a person with a disability in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 195.16",
+        "type": "A Misdemeanor",
+        "title": "Obstructing emergency medical services",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 195.17",
+        "type": "D Felony",
+        "title": "Obstruction of governmental duties by means of a bomb destructive device explosive or hazardous substance",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 195.20",
+        "type": "E Felony",
+        "title": "Defrauding the government",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 200.00",
+        "type": "D Felony",
+        "title": "Bribery in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 200.03",
+        "type": "C Felony",
+        "title": "Bribery in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 200.04",
+        "type": "B Felony",
+        "title": "Bribery in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 200.10",
+        "type": "D Felony",
+        "title": "Bribe receiving in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 200.11",
+        "type": "C Felony",
+        "title": "Bribe receiving in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 200.12",
+        "type": "B Felony",
+        "title": "Bribe receiving in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 200.20",
+        "type": "E Felony",
+        "title": "Rewarding official misconduct in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 200.22",
+        "type": "C Felony",
+        "title": "Rewarding official misconduct in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 200.25",
+        "type": "E Felony",
+        "title": "Receiving reward for official misconduct in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 200.27",
+        "type": "C Felony",
+        "title": "Receiving reward for official misconduct in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 200.30",
+        "type": "A Misdemeanor",
+        "title": "Giving unlawful gratuities",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 200.35",
+        "type": "A Misdemeanor",
+        "title": "Receiving unlawful gratuities",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 200.45",
+        "type": "D Felony",
+        "title": "Bribe giving for public office",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 200.50",
+        "type": "D Felony",
+        "title": "Bribe receiving for public office",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 200.55",
+        "type": "D Felony",
+        "title": "Impairing the integrity of a government licensing examination",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 200.56",
+        "type": "E Felony",
+        "title": "Corrupt use of position or authority",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 205.05",
+        "type": "A Misdemeanor",
+        "title": "Escape in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 205.10",
+        "type": "E Felony",
+        "title": "Escape in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 205.15",
+        "type": "D Felony",
+        "title": "Escape in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 205.17",
+        "type": "E Felony",
+        "title": "Absconding from temporary release in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 205.18",
+        "type": "A Misdemeanor",
+        "title": "Absconding from a furlough program",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 205.19",
+        "type": "E Felony",
+        "title": "Absconding from a community treatment facility",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 205.20",
+        "type": "A Misdemeanor",
+        "title": "Promoting prison contraband in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 205.25",
+        "type": "D Felony",
+        "title": "Promoting prison contraband in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 205.55",
+        "type": "A Misdemeanor",
+        "title": "Hindering prosecution in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 205.60",
+        "type": "E Felony",
+        "title": "Hindering prosecution in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 205.65",
+        "type": "D Felony",
+        "title": "Hindering prosecution in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 210.05",
+        "type": "A Misdemeanor",
+        "title": "Perjury in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 210.10",
+        "type": "E Felony",
+        "title": "Perjury in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 210.15",
+        "type": "D Felony",
+        "title": "Perjury in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 210.35",
+        "type": "A Misdemeanor",
+        "title": "Making an apparently sworn false statement in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 210.40",
+        "type": "E Felony",
+        "title": "Making an apparently sworn false statement in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 210.45",
+        "type": "A Misdemeanor",
+        "title": "Making a punishable false written statement",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 215.05",
+        "type": "D Felony",
+        "title": "Bribe receiving by a witness",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 215.10",
+        "type": "A Misdemeanor",
+        "title": "Tampering with a witness in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 215.11",
+        "type": "E Felony",
+        "title": "Tampering with a witness in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 215.12",
+        "type": "D Felony",
+        "title": "Tampering with a witness in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 215.13",
+        "type": "B Felony",
+        "title": "Tampering with a witness in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 215.14",
+        "type": "B Misdemeanor",
+        "title": "Employer unlawfully penalizing witness or victim",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 215.15",
+        "type": "E Felony",
+        "title": "Intimidating a victim or witness in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 215.16",
+        "type": "D Violent Felony",
+        "title": "Intimidating a victim or witness in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "2-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 215.17",
+        "type": "B Violent Felony",
+        "title": "Intimidating a victim or witness in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "5-25 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 215.19",
+        "type": "D Felony",
+        "title": "Bribing a juror",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 215.20",
+        "type": "D Felony",
+        "title": "Bribe receiving by a juror",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 215.22",
+        "type": "A Misdemeanor",
+        "title": "Providing a juror with a gratuity",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 215.23",
+        "type": "B Misdemeanor",
+        "title": "Tampering with a juror in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 215.25",
+        "type": "A Misdemeanor",
+        "title": "Tampering with a juror in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 215.28",
+        "type": "Violation",
+        "title": "Misconduct by a juror in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-15 Days",
+        "bondAmount": 250
+    },
+    {
+        "code": "§ 215.30",
+        "type": "A Misdemeanor",
+        "title": "Misconduct by a juror in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 215.40",
+        "type": "E Felony",
+        "title": "Tampering with physical evidence",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 215.45",
+        "type": "A Misdemeanor",
+        "title": "Compounding a crime",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 215.50",
+        "type": "A Misdemeanor",
+        "title": "Criminal contempt in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 215.51",
+        "type": "E Felony",
+        "title": "Criminal contempt in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 215.52",
+        "type": "D Felony",
+        "title": "Aggravated criminal contempt",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 215.55",
+        "type": "A Misdemeanor",
+        "title": "Bail jumping in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 215.56",
+        "type": "E Felony",
+        "title": "Bail jumping in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 215.57",
+        "type": "D Felony",
+        "title": "Bail jumping in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 215.58",
+        "type": "Violation",
+        "title": "Failing to respond to an appearance ticket",
+        "bondType": "Surety Bail",
+        "jailTime": "0-15 Days",
+        "bondAmount": 250
+    },
+    {
+        "code": "§ 215.60",
+        "type": "A Misdemeanor",
+        "title": "Criminal contempt of the legislature",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 215.65",
+        "type": "A Misdemeanor",
+        "title": "Criminal contempt of a temporary state commission",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 215.66",
+        "type": "A Misdemeanor",
+        "title": "Criminal contempt of the state commission on judicial conduct",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 215.70",
+        "type": "E Felony",
+        "title": "Unlawful grand jury disclosure",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 215.75",
+        "type": "B Misdemeanor",
+        "title": "Unlawful disclosure of an indictment",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 215.80",
+        "type": "A Misdemeanor",
+        "title": "Unlawful disposition of assets subject to forfeiture",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 220.03",
+        "type": "A Misdemeanor",
+        "title": "Criminal possession of a controlled substance in the seventh degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 220.06",
+        "type": "D Felony",
+        "title": "Criminal possession of a controlled substance in the fifth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 220.09",
+        "type": "C Felony",
+        "title": "Criminal possession of a controlled substance in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 220.16",
+        "type": "B Felony",
+        "title": "Criminal possession of a controlled substance in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 220.18",
+        "type": "A-II Felony",
+        "title": "Criminal possession of a controlled substance in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "3 Years-Life",
+        "bondAmount": 50000
+    },
+    {
+        "code": "§ 220.21",
+        "type": "A-I Felony",
+        "title": "Criminal possession of a controlled substance in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "15 Years-Life",
+        "bondAmount": 100000
+    },
+    {
+        "code": "§ 220.28",
+        "type": "E Felony",
+        "title": "Use of a child to commit a controlled substance offense",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 220.31",
+        "type": "D Felony",
+        "title": "Criminal sale of a controlled substance in the fifth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 220.34",
+        "type": "C Felony",
+        "title": "Criminal sale of a controlled substance in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 220.39",
+        "type": "B Felony",
+        "title": "Criminal sale of a controlled substance in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 220.41",
+        "type": "A-II Felony",
+        "title": "Criminal sale of a controlled substance in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "3 Years-Life",
+        "bondAmount": 50000
+    },
+    {
+        "code": "§ 220.43",
+        "type": "A-I Felony",
+        "title": "Criminal sale of a controlled substance in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "15 Years-Life",
+        "bondAmount": 100000
+    },
+    {
+        "code": "§ 220.44",
+        "type": "B Felony",
+        "title": "Criminal sale of a controlled substance in or near school grounds",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 220.45",
+        "type": "A Misdemeanor",
+        "title": "Criminally possessing a hypodermic instrument",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 220.46",
+        "type": "E Felony",
+        "title": "Criminal injection of a narcotic drug",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 220.48",
+        "type": "B Felony",
+        "title": "Criminal sale of a controlled substance to a child",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 220.50",
+        "type": "A Misdemeanor",
+        "title": "Criminally using drug paraphernalia in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 220.55",
+        "type": "D Felony",
+        "title": "Criminally using drug paraphernalia in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 220.60",
+        "type": "E Felony",
+        "title": "Criminal possession of precursors of controlled substances",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 220.65",
+        "type": "C Felony",
+        "title": "Criminal sale of a prescription for a controlled substance or of a controlled substance by a practitioner or pharmacist",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 220.70",
+        "type": "A Misdemeanor",
+        "title": "Criminal  possession  of methamphetamine manufacturing material in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 220.71",
+        "type": "E Felony",
+        "title": "Criminal possession  of methamphetamine manufacturing material in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 220.72",
+        "type": "E Felony",
+        "title": "Criminal possession of precursors of methamphetamine",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 220.73",
+        "type": "D Felony",
+        "title": "Unlawful manufacture of methamphetamine in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 220.74",
+        "type": "C Felony",
+        "title": "Unlawful manufacture of methamphetamine in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 220.75",
+        "type": "B Felony",
+        "title": "Unlawful manufacture of methamphetamine in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 220.76",
+        "type": "E Felony",
+        "title": "Unlawful disposal of methamphetamine laboratory material",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 220.77",
+        "type": "A-I Felony",
+        "title": "Operating as a major trafficker",
+        "bondType": "Surety Bail",
+        "jailTime": "15 Years-Life",
+        "bondAmount": 100000
+    },
+    {
+        "code": "§ 221.05",
+        "type": "Violation",
+        "title": "Unlawful possession of marihuana",
+        "bondType": "Surety Bail",
+        "jailTime": "0-15 Days",
+        "bondAmount": 250
+    },
+    {
+        "code": "§ 221.10",
+        "type": "B Misdemeanor",
+        "title": "Criminal possession of marihuana in the fifth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 221.15",
+        "type": "A Misdemeanor",
+        "title": "Criminal possession of marihuana in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 221.20",
+        "type": "E Felony",
+        "title": "Criminal possession of marihuana in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 221.25",
+        "type": "D Felony",
+        "title": "Criminal possession of marihuana in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 221.30",
+        "type": "C Felony",
+        "title": "Criminal possession of marihuana in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 221.35",
+        "type": "B Misdemeanor",
+        "title": "Criminal sale of marihuana in the fifth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 221.40",
+        "type": "A Misdemeanor",
+        "title": "Criminal sale of marihuana in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 221.45",
+        "type": "E Felony",
+        "title": "Criminal sale of marihuana in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 221.50",
+        "type": "D Felony",
+        "title": "Criminal sale of marihuana in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 221.55",
+        "type": "C Felony",
+        "title": "Criminal sale of marihuana in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 225.05",
+        "type": "A Misdemeanor",
+        "title": "Promoting gambling in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 225.10",
+        "type": "E Felony",
+        "title": "Promoting gambling in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 225.15",
+        "type": "A Misdemeanor",
+        "title": "Possession of gambling records in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 225.20",
+        "type": "E Felony",
+        "title": "Possession of gambling records in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 225.30",
+        "type": "A Misdemeanor",
+        "title": "Possession of a gambling device",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 225.55",
+        "type": "A Misdemeanor",
+        "title": "Gaming fraud in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 225.60",
+        "type": "E Felony",
+        "title": "Gaming fraud in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 225.65",
+        "type": "A Misdemeanor",
+        "title": "Use of counterfeit, unapproved or unlawful wagering instruments",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 225.70",
+        "type": "A Misdemeanor",
+        "title": "Possession of unlawful gaming property in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 225.75",
+        "type": "E Felony",
+        "title": "Possession of unlawful gaming property in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 225.80",
+        "type": "D Felony",
+        "title": "Possession of unlawful gaming property in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 225.85",
+        "type": "E Felony",
+        "title": "Use of unlawful gaming property",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 225.90",
+        "type": "A Misdemeanor",
+        "title": "Manipulation of gaming outcomes at an authorized gaming establishment",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 225.95",
+        "type": "A Misdemeanor",
+        "title": "Unlawful manufacture, sale, distribution, marking, altering or modification of equipment and devices associated with gaming",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 230.00",
+        "type": "B Misdemeanor",
+        "title": "Prostitution",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 230.03",
+        "type": "A Misdemeanor",
+        "title": "Prostitution in a school zone",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 230.04",
+        "type": "A Misdemeanor",
+        "title": "Patronizing a person for prostitution in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 230.05",
+        "type": "E Felony",
+        "title": "Patronizing a person for prostitution in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 230.06",
+        "type": "D Felony",
+        "title": "Patronizing a person for prostitution in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 230.08",
+        "type": "E Felony",
+        "title": "Patronizing a person for prostitution in a school zone",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 230.11",
+        "type": "E Felony",
+        "title": "Aggravated patronizing a minor for prostitution in the third degree.",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 230.12",
+        "type": "D Felony",
+        "title": "Aggravated patronizing a minor for prostitution in the second degree.",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 230.13",
+        "type": "B Felony",
+        "title": "Aggravated patronizing a minor for prostitution in the first degree.",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 230.19",
+        "type": "E Felony",
+        "title": "Promoting prostitution in a school zone",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 230.20",
+        "type": "A Misdemeanor",
+        "title": "Promoting prostitution in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 230.25",
+        "type": "D Felony",
+        "title": "Promoting prostitution in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 230.30",
+        "type": "C Felony",
+        "title": "Promoting prostitution in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 230.32",
+        "type": "B Felony",
+        "title": "Promoting prostitution in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 230.33",
+        "type": "B Felony",
+        "title": "Compelling prostitution",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 230.34",
+        "type": "B Felony",
+        "title": "Sex trafficking",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 230.40",
+        "type": "B Misdemeanor",
+        "title": "Permitting prostitution",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 235.05",
+        "type": "A Misdemeanor",
+        "title": "Obscenity in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 235.06",
+        "type": "E Felony",
+        "title": "Obscenity in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 235.07",
+        "type": "D Felony",
+        "title": "Obscenity in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 235.21",
+        "type": "E Felony",
+        "title": "Disseminating indecent material to minors in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 235.22",
+        "type": "D Felony",
+        "title": "Disseminating indecent material to minors in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 240.05",
+        "type": "A Misdemeanor",
+        "title": "Riot in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 240.06",
+        "type": "E Felony",
+        "title": "Riot in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 240.08",
+        "type": "A Misdemeanor",
+        "title": "Inciting to riot",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 240.10",
+        "type": "B Misdemeanor",
+        "title": "Unlawful assembly",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 240.15",
+        "type": "E Felony",
+        "title": "Criminal anarchy",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 240.20",
+        "type": "Violation",
+        "title": "Disorderly conduct",
+        "bondType": "Surety Bail",
+        "jailTime": "0-15 Days",
+        "bondAmount": 250
+    },
+    {
+        "code": "§ 240.21",
+        "type": "A Misdemeanor",
+        "title": "Disruption or disturbance of religious service",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 240.25",
+        "type": "B Misdemeanor",
+        "title": "Harassment in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 240.26",
+        "type": "Violation",
+        "title": "Harassment in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-15 Days",
+        "bondAmount": 250
+    },
+    {
+        "code": "§ 240.30",
+        "type": "A Misdemeanor",
+        "title": "Aggravated harassment in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 240.31",
+        "type": "E Felony",
+        "title": "Aggravated harassment in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 240.32",
+        "type": "E Felony",
+        "title": "Aggravated harassment of an employee by an inmate",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 240.35",
+        "type": "Violation",
+        "title": "Loitering",
+        "bondType": "Surety Bail",
+        "jailTime": "0-15 Days",
+        "bondAmount": 250
+    },
+    {
+        "code": "§ 240.36",
+        "type": "B Misdemeanor",
+        "title": "Loitering in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 240.37(2)",
+        "type": "B Misdemeanor",
+        "title": "Loitering for the purpose of engaging in a prostitution offense (previous conviction of 230.00 or 230.05)",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 240.37(2)",
+        "type": "Violation",
+        "title": "Loitering for the purpose of engaging in a prostitution offense",
+        "bondType": "Surety Bail",
+        "jailTime": "0-15 Days",
+        "bondAmount": 250
+    },
+    {
+        "code": "§ 240.37(3)",
+        "type": "A Misdemeanor",
+        "title": "Loitering for the purpose of engaging in a prostitution offense",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 240.40",
+        "type": "Violation",
+        "title": "Appearance in public under the influence of narcotics or a drug other than alcohol",
+        "bondType": "Surety Bail",
+        "jailTime": "0-15 Days",
+        "bondAmount": 250
+    },
+    {
+        "code": "§ 240.45",
+        "type": "B Misdemeanor",
+        "title": "Criminal nuisance in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 240.46",
+        "type": "E Felony",
+        "title": "Criminal nuisance in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 240.48",
+        "type": "A Misdemeanor",
+        "title": "Disseminating a false registered sex offender notice",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 240.50",
+        "type": "A Misdemeanor",
+        "title": "Falsely reporting an incident in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 240.55",
+        "type": "E Violent Felony",
+        "title": "Falsely reporting an incident in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "1.5-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 240.60",
+        "type": "D Violent Felony",
+        "title": "Falsely reporting an incident in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "2-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 240.61",
+        "type": "E Violent Felony",
+        "title": "Placing a false bomb or hazardous substance in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "1.5-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 240.62",
+        "type": "D Violent Felony",
+        "title": "Placing a false bomb or hazardous substance in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "2-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 240.63",
+        "type": "D Violent Felony",
+        "title": "Placing a false bomb or hazardous substance in a sports stadium or arena mass transportation facility or enclosed shopping mall",
+        "bondType": "Surety Bail",
+        "jailTime": "2-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 240.65",
+        "type": "Violation",
+        "title": "Unlawful prevention of public access to records",
+        "bondType": "Surety Bail",
+        "jailTime": "0-15 Days",
+        "bondAmount": 250
+    },
+    {
+        "code": "§ 240.70",
+        "type": "A Misdemeanor",
+        "title": "Criminal interference with health care services or religious worship in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 240.71",
+        "type": "E Felony",
+        "title": "Criminal interference with health care services or religious worship in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 240.72",
+        "type": "E Felony",
+        "title": "Aggravated interference with health care services in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 240.73",
+        "type": "E Felony",
+        "title": "Aggravated interference with health care services in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 240.75",
+        "type": "E Felony",
+        "title": "Aggravated family offense",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 240.76",
+        "type": "A Misdemeanor",
+        "title": "Directing a laser at an aircraft in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 240.77",
+        "type": "E Felony",
+        "title": "Directing a laser at an aircraft in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 241.05",
+        "type": "E Felony",
+        "title": "Harassment of a rent regulated tenant",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 242.05",
+        "type": "B Misdemeanor",
+        "title": "Interference harassment or intimidation of a service animal",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 242.10",
+        "type": "A Misdemeanor",
+        "title": "Harming a service animal in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 242.15",
+        "type": "E Felony",
+        "title": "Harming a service animal in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 245.00",
+        "type": "B Misdemeanor",
+        "title": "Public lewdness",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 245.01",
+        "type": "Violation",
+        "title": "Exposure of a person",
+        "bondType": "Surety Bail",
+        "jailTime": "0-15 Days",
+        "bondAmount": 250
+    },
+    {
+        "code": "§ 245.02",
+        "type": "Violation",
+        "title": "Promoting the exposure of a person",
+        "bondType": "Surety Bail",
+        "jailTime": "0-15 Days",
+        "bondAmount": 250
+    },
+    {
+        "code": "§ 245.03",
+        "type": "A Misdemeanor",
+        "title": "Public lewdness in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 245.05",
+        "type": "Violation",
+        "title": "Offensive exhibition",
+        "bondType": "Surety Bail",
+        "jailTime": "0-15 Days",
+        "bondAmount": 250
+    },
+    {
+        "code": "§ 245.11",
+        "type": "A Misdemeanor",
+        "title": "Public display of offensive sexual material",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 250.05",
+        "type": "E Felony",
+        "title": "Eavesdropping",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 250.10",
+        "type": "A Misdemeanor",
+        "title": "Possession of eavesdropping devices",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 250.15",
+        "type": "B Misdemeanor",
+        "title": "Failure to report wiretapping",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 250.20",
+        "type": "A Misdemeanor",
+        "title": "Divulging an eavesdropping warrant",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 250.25",
+        "type": "B Misdemeanor",
+        "title": "Tampering with private communications",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 250.35",
+        "type": "B Misdemeanor",
+        "title": "Failing to report criminal communications",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 250.45",
+        "type": "E Felony",
+        "title": "Unlawful surveillance in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 250.50",
+        "type": "D Felony",
+        "title": "Unlawful surveillance in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 250.55",
+        "type": "A Misdemeanor",
+        "title": "Dissemination of an unlawful surveillance image in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 250.60",
+        "type": "E Felony",
+        "title": "Dissemination of an unlawful surveillance image in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 255.00",
+        "type": "A Misdemeanor",
+        "title": "Unlawfully solemnizing a marriage",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 255.05",
+        "type": "A Misdemeanor",
+        "title": "Unlawfully issuing a dissolution decree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 255.10",
+        "type": "A Misdemeanor",
+        "title": "Unlawfully procuring a marriage license",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 255.15",
+        "type": "E Felony",
+        "title": "Bigamy",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 255.17",
+        "type": "B Misdemeanor",
+        "title": "Adultery",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 255.25",
+        "type": "E Felony",
+        "title": "Incest in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 255.26",
+        "type": "D Felony",
+        "title": "Incest in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 255.27",
+        "type": "B Violent Felony",
+        "title": "Incest in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "5-25 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 260.05",
+        "type": "A Misdemeanor",
+        "title": "Non-support of a child in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 260.06",
+        "type": "E Felony",
+        "title": "Non-support of a child in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 260.10",
+        "type": "A Misdemeanor",
+        "title": "Endangering the welfare of a child",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 260.20",
+        "type": "A Misdemeanor",
+        "title": "Unlawfully dealing with a child in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 260.21",
+        "type": "B Misdemeanor",
+        "title": "Unlawfully dealing with a child in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 260.24",
+        "type": "A Misdemeanor",
+        "title": "Endangering the welfare of an incompetent or physically disabled person in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 260.25",
+        "type": "E Felony",
+        "title": "Endangering the welfare of an incompetent or physically disabled person in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 260.31*2",
+        "type": "A Misdemeanor",
+        "title": "Misrepresentation by a child day care provider",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 260.32",
+        "type": "E Felony",
+        "title": "Endangering the welfare of a vulnerable elderly person, or an incompetent or physically disabled person in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 260.34",
+        "type": "D Felony",
+        "title": "Endangering the welfare of a vulnerable elderly person, or an incompetent or physically disabled person in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 260.00",
+        "type": "E Felony",
+        "title": "Abandonment of a child",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 263.05",
+        "type": "C Felony",
+        "title": "Use of a child in a sexual performance",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 263.10",
+        "type": "D Felony",
+        "title": "Promoting an obscene sexual performance by a child",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 263.11",
+        "type": "E Felony",
+        "title": "Possessing an obscene sexual performance by a child",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 263.15",
+        "type": "D Felony",
+        "title": "Promoting a sexual performance by a child",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 263.16",
+        "type": "E Felony",
+        "title": "Possessing a sexual performance by a child",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 263.30",
+        "type": "B Felony",
+        "title": "Facilitating a sexual performance by a child with a controlled substance or alcohol",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 265.01",
+        "type": "A Misdemeanor",
+        "title": "Criminal possession of a weapon in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 265.01A",
+        "type": "E Felony",
+        "title": "Criminal possession of a weapon on school grounds",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 265.01B",
+        "type": "E Felony",
+        "title": "Criminal possession of a firearm",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 265.02",
+        "type": "D Violent Felony",
+        "title": "Criminal possession of a weapon in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "2-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 265.03",
+        "type": "C Violent Felony",
+        "title": "Criminal possession of a weapon in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "3.5-15 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 265.04",
+        "type": "B Violent Felony",
+        "title": "Criminal possession of a weapon in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "5-25 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 265.08",
+        "type": "C Violent Felony",
+        "title": "Criminal use of a firearm in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "3.5-15 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 265.09",
+        "type": "B Violent Felony",
+        "title": "Criminal use of a firearm in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "5-25 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 265.10",
+        "type": "A Misdemeanor",
+        "title": "Manufacture transport disposition and defacement of weapons and dangerous instruments and appliances",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 265.11",
+        "type": "D Violent Felony",
+        "title": "Criminal sale of a firearm in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "2-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 265.12",
+        "type": "C Violent Felony",
+        "title": "Criminal sale of a firearm in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "3.5-15 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 265.13",
+        "type": "B Violent Felony",
+        "title": "Criminal sale of a firearm in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "5-25 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 265.14",
+        "type": "C Violent Felony",
+        "title": "Criminal sale of a firearm with the aid of a minor",
+        "bondType": "Surety Bail",
+        "jailTime": "3.5-15 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 265.16",
+        "type": "C Felony",
+        "title": "Criminal sale of a firearm to a minor",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 265.17",
+        "type": "D Felony",
+        "title": "Criminal purchase or disposal of a weapon",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 265.19",
+        "type": "C Felony",
+        "title": "Aggravated criminal possession of a weapon",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 265.25",
+        "type": "A Misdemeanor",
+        "title": "Certain wounds to be reported",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 265.26",
+        "type": "A Misdemeanor",
+        "title": "Burn injury and wounds to be reported",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 265.35",
+        "type": "A Misdemeanor",
+        "title": "Prohibited use of weapons",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 265.36",
+        "type": "A Misdemeanor",
+        "title": "Unlawful  possession  of  a large capacity ammunition feeding",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 265.37",
+        "type": "B Misdemeanor",
+        "title": "Unlawful possession of certain ammunition feeding devices",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 265.45",
+        "type": "A Misdemeanor",
+        "title": "Safe storage of rifles, shotguns, and firearms",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 270.05",
+        "type": "B Misdemeanor",
+        "title": "Unlawfully possessing or selling noxious material",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 270.10",
+        "type": "B Misdemeanor",
+        "title": "Creating a hazard",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 270.15",
+        "type": "B Misdemeanor",
+        "title": "Unlawfully refusing to yield a party line",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 270.20",
+        "type": "E Felony",
+        "title": "Unlawful wearing of a body vest",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 270.25",
+        "type": "A Misdemeanor",
+        "title": "Unlawful fleeing a police officer in a motor vehicle in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 270.30",
+        "type": "E Felony",
+        "title": "Unlawful fleeing a police officer in a motor vehicle in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 270.35",
+        "type": "D Felony",
+        "title": "Unlawful fleeing a police officer in a motor vehicle in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 270.00(2a,i)",
+        "type": "B Misdemeanor",
+        "title": "Unlawfully dealing with fireworks and dangerous fireworks",
+        "bondType": "Surety Bail",
+        "jailTime": "0-3 Months",
+        "bondAmount": 500
+    },
+    {
+        "code": "§ 270.00(2aii)",
+        "type": "A Misdemeanor",
+        "title": "Unlawfully dealing with fireworks and dangerous fireworks",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 270.00(2biv)",
+        "type": "E Felony",
+        "title": "Unlawfully dealing with fireworks and dangerous fireworks",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 275.05",
+        "type": "A Misdemeanor",
+        "title": "Manufacture of unauthorized recordings in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 275.10",
+        "type": "E Felony",
+        "title": "Manufacture of unauthorized recordings in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 275.15",
+        "type": "A Misdemeanor",
+        "title": "Manufacture or sale of an unauthorized recording of a performance in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 275.20",
+        "type": "E Felony",
+        "title": "Manufacture or sale of an unauthorized recording of a performance in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 275.25",
+        "type": "A Misdemeanor",
+        "title": "Advertisement or sale of unauthorized recordings in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 275.30",
+        "type": "E Felony",
+        "title": "Advertisement or sale of unauthorized recordings in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 275.33",
+        "type": "A Misdemeanor",
+        "title": "Unauthorized operation of a recording device in a motion picture or live theater in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 275.34",
+        "type": "E Felony",
+        "title": "Unauthorized operation of a recording device in a motion picture or live theater in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 275.35",
+        "type": "A Misdemeanor",
+        "title": "Failure to disclose the origin of a recording in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 275.40",
+        "type": "E Felony",
+        "title": "Failure to disclose the origin of a recording in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 400.00(15)",
+        "type": "A Misdemeanor",
+        "title": "Licenses to carry possess repair and dispose of firearms",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 400.03",
+        "type": "Violation",
+        "title": "Sellers of ammunition",
+        "bondType": "Surety Bail",
+        "jailTime": "0-15 Days",
+        "bondAmount": 250
+    },
+    {
+        "code": "§ 405.12",
+        "type": "A Misdemeanor",
+        "title": "Unpermitted use of indoor pyrotechnics in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-1 Years",
+        "bondAmount": 1000
+    },
+    {
+        "code": "§ 405.16",
+        "type": "E Felony",
+        "title": "Aggravated unpermitted use of indoor pyrotechnics in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 405.18",
+        "type": "D Violent Felony",
+        "title": "Aggravated unpermitted use of indoor pyrotechnics in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "2-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 460.20",
+        "type": "B Felony",
+        "title": "Enterprise corruption",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 460.22",
+        "type": "A-I Felony",
+        "title": "Aggravated enterprise corruption",
+        "bondType": "Surety Bail",
+        "jailTime": "15 Years-Life",
+        "bondAmount": 100000
+    },
+    {
+        "code": "§ 470.05",
+        "type": "E Felony",
+        "title": "Money laundering in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 470.10",
+        "type": "D Felony",
+        "title": "Money laundering in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 470.15",
+        "type": "C Felony",
+        "title": "Money laundering in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 470.20",
+        "type": "B Felony",
+        "title": "Money laundering in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 470.21",
+        "type": "E Felony",
+        "title": "Money laundering in support of terrorism in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 470.22",
+        "type": "D Felony",
+        "title": "Money laundering in support of terrorism in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 470.23",
+        "type": "C Felony",
+        "title": "Money laundering in support of terrorism in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 470.24",
+        "type": "B Felony",
+        "title": "Money laundering in support of terrorism in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    },
+    {
+        "code": "§ 490.10",
+        "type": "D Violent Felony",
+        "title": "Soliciting or providing support for an act of terrorism in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "2-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 490.15",
+        "type": "C Violent Felony",
+        "title": "Soliciting or providing support for an act of terrorism in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "3.5-15 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 490.20",
+        "type": "D Violent Felony",
+        "title": "Making a terroristic threat",
+        "bondType": "Surety Bail",
+        "jailTime": "2-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 490.25",
+        "type": "A-I Felony",
+        "title": "Crime of terrorism",
+        "bondType": "Surety Bail",
+        "jailTime": "15 Years-Life",
+        "bondAmount": 100000
+    },
+    {
+        "code": "§ 490.30",
+        "type": "C Violent Felony",
+        "title": "Hindering prosecution of terrorism in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "3.5-15 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 490.35",
+        "type": "B Violent Felony",
+        "title": "Hindering prosecution of terrorism in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "5-25 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 490.37",
+        "type": "C Violent Felony",
+        "title": "Criminal possession of a chemical weapon or biological weapon in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "3.5-15 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 490.40",
+        "type": "B Violent Felony",
+        "title": "Criminal possession of a chemical weapon or biological weapon in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "5-25 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 490.45",
+        "type": "A-I Felony",
+        "title": "Criminal possession of a chemical weapon or biological weapon in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "15 Years-Life",
+        "bondAmount": 100000
+    },
+    {
+        "code": "§ 490.47",
+        "type": "B Violent Felony",
+        "title": "Criminal use of a chemical weapon or biological weapon in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "5-25 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 490.50",
+        "type": "A-II Felony",
+        "title": "Criminal use of a chemical weapon or biological weapon in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "3 Years-Life",
+        "bondAmount": 50000
+    },
+    {
+        "code": "§ 490.55",
+        "type": "A-I Felony",
+        "title": "Criminal use of a chemical weapon or biological weapon in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "15 Years-Life",
+        "bondAmount": 100000
+    },
+    {
+        "code": "§ 496.02",
+        "type": "E Felony",
+        "title": "Corrupting the government in the fourth degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-4 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 496.03",
+        "type": "D Felony",
+        "title": "Corrupting the government in the third degree",
+        "bondType": "Surety Bail",
+        "jailTime": "0-7 Years",
+        "bondAmount": 5000
+    },
+    {
+        "code": "§ 496.04",
+        "type": "C Felony",
+        "title": "Corrupting the government in the second degree",
+        "bondType": "Surety Bail",
+        "jailTime": "6-15 Years",
+        "bondAmount": 15000
+    },
+    {
+        "code": "§ 496.05",
+        "type": "B Felony",
+        "title": "Corrupting the government in the first degree",
+        "bondType": "Surety Bail",
+        "jailTime": "9-25 Years",
+        "bondAmount": 30000
+    }
+]
